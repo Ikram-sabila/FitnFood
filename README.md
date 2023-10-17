@@ -29,7 +29,8 @@ Kami selalu menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi 
 
 Terima kasih telah menggunakan FitnFood! Kami berharap aplikasi ini dapat membantu Anda dalam mencapai tujuan kesehatan Anda.
 
-![Uploading image.png…]()
+![Alt Text]([URL atau Path ke Gambar](https://cdn1-production-images-kly.akamaized.net/6XGkH60OMmyMjWW1X1qa2iXVqLs=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2746603/original/060399200_1552048902-iStock-854725402.jpg)https://cdn1-production-images-kly.akamaized.net/6XGkH60OMmyMjWW1X1qa2iXVqLs=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2746603/original/060399200_1552048902-iStock-854725402.jpg)
+
 
 
 
