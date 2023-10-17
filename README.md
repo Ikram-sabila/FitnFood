@@ -1,66 +1,34 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# FitnFood - Aplikasi Pencatatan Makanan dan Aktivitas
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+FitnFood adalah sebuah aplikasi web yang dibangun dengan menggunakan Laravel untuk membantu Anda mencatat makanan yang Anda konsumsi sepanjang hari serta aktivitas fisik yang Anda lakukan. Aplikasi ini memiliki fitur-fitur berikut:
 
-## About Laravel
+- **Pencatatan Makanan:** Anda dapat mencatat makanan yang Anda makan, termasuk makanan utama, camilan, dan minuman. Setiap item makanan memiliki informasi gizi yang terkait.
+- **Pencatatan Aktivitas Fisik:** Anda dapat mencatat berbagai aktivitas fisik yang Anda lakukan sepanjang hari, seperti berjalan, lari, bersepeda, dan lain-lain.
+- **Analisis Nutrisi:** Aplikasi ini akan menghitung asupan nutrisi harian Anda berdasarkan catatan makanan yang Anda masukkan, membantu Anda memantau pola makan Anda.
+- **Statistik dan Grafik:** Anda dapat melihat statistik tentang aktivitas fisik Anda dan asupan makanan harian dalam bentuk grafik untuk memahami lebih baik kebiasaan Anda.
+- **Catatan Pribadi:** Anda dapat menambahkan catatan pribadi tentang perasaan Anda, tujuan kebugaran, dan sebagainya.
+- **Fitur Lainnya:** FitnFood juga memiliki sejumlah fitur lain yang dapat membantu Anda dalam mencapai tujuan kesehatan Anda.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Cara Menggunakan Aplikasi
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+1. **Registrasi dan Masuk:** Untuk menggunakan aplikasi FitnFood, Anda perlu membuat akun terlebih dahulu atau masuk jika Anda sudah memiliki akun.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+2. **Pencatatan Makanan:** Setelah masuk, Anda dapat mulai mencatat makanan yang Anda konsumsi. Cari makanan atau tambahkan makanan baru beserta informasi gizi ke dalam catatan harian Anda.
 
-## Learning Laravel
+3. **Pencatatan Aktivitas:** Selain mencatat makanan, Anda juga dapat mencatat aktivitas fisik yang Anda lakukan. Pilih jenis aktivitas dan masukkan durasinya.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+4. **Analisis Nutrisi:** Aplikasi akan menghitung asupan nutrisi harian Anda berdasarkan catatan makanan dan aktivitas yang Anda masukkan. Anda dapat melihat grafik perkembangan Anda.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+5. **Catatan Pribadi:** Jangan lupa untuk menambahkan catatan pribadi tentang perasaan Anda, tujuan kebugaran, atau hal lain yang ingin Anda catat.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+6. **Eksplorasi FitnFood:** Selain itu, Anda dapat menjelajahi fitur-fitur lain aplikasi FitnFood untuk mendukung kebiasaan hidup sehat Anda.
 
-## Laravel Sponsors
+## Kontribusi
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+Kami selalu menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, silakan mengajukan pull request atau melaporkan masalah (issue) yang Anda temui.
 
-### Premium Partners
+Terima kasih telah menggunakan FitnFood! Kami berharap aplikasi ini dapat membantu Anda dalam mencapai tujuan kesehatan Anda.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+**Catatan:** Ini adalah README contoh. Anda dapat menyesuaikan dan memperluas README sesuai dengan proyek FitnFood Anda yang sebenarnya. Pastikan untuk memberikan informasi yang cukup untuk membantu pengguna memahami apa aplikasi ini dan bagaimana cara menggunakannya.
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
