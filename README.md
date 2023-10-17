@@ -29,6 +29,7 @@ Kami selalu menghargai kontribusi dari komunitas. Jika Anda ingin berkontribusi 
 
 Terima kasih telah menggunakan FitnFood! Kami berharap aplikasi ini dapat membantu Anda dalam mencapai tujuan kesehatan Anda.
 
-**Catatan:** Ini adalah README contoh. Anda dapat menyesuaikan dan memperluas README sesuai dengan proyek FitnFood Anda yang sebenarnya. Pastikan untuk memberikan informasi yang cukup untuk membantu pengguna memahami apa aplikasi ini dan bagaimana cara menggunakannya.
+![Uploading image.png…]()
+
 
 
